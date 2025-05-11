@@ -1,0 +1,515 @@
+LTIMindtree is a Premier Tier Partner for Amazon Web
+Services (AWS) with 8+ years of association, having
+1 Co-Innovation center in Hartford, 9 AWS
+Competencies, 17 Service Delivery Program
+Designations (SDPs), 13,400+ accredited cloud experts
+and 1,855+ Certified AWS Professionals. LTIMindtree’s
+partnership with AWS helps power enterprises through
+a host of offerings and services with a demonstrated
+capability in the areas of Application & Infrastructure
+Modernization, Gen AI, SAP on AWS, Data-Analytics and
+Managed Services for end-to-end AWS adoption.
+LTIMindtree has a 360-degree relationship with AWS
+customers delivering Strategy consulting, Advisory,
+Technical Delivery and Managed Services. 9 AWS
+Competencies in the areas of IoT, Microsoft Workloads,
+Data & Analytics, DevOps, Energy Consulting Competency,
+Financial Services, Migration, Machine Learning & SAP.
+During the year, LTIMindtree was awarded Sustainability
+Partner of the year at the 'AWS re:Invent' event in Las
+Vegas in November 2023. AWS selected LTIMindtree as
+Modernization Partner in Elastic Kubernetes Service
+(EKS), AWS Elastic Container Service (ECS) and
+AWS Fargate space for Application modernization.
+Maintaining its Tier 1 highest level partnership
+for AWS Managed Service Program, the Company
+signed a strategic agreement with AWS to work on
+Gen AI solutions enhancing customer use cases
+around Content Search Q&A bots, NLP to SQL Insights,
+Content Translation Services, Report-Speech - Image
+Generation, Software Engineering Automation & LLMOps
+for industrialization.
+
+LTIMindtree is a System Integrator and Premier
+Partner for Google Cloud Platform (GCP) and Google
+Workspace. The Company’s Go-to-Market strategy
+with GCP comprises of big bets in the areas of Data
+Lake Modernization, EDW Modernization, Modernize
+traditional Applications & Platforms, Mainframe
+Cloudification and Security Operations. LTIMindtree has attained Data Analytics specialization,
+37 Expertise and has over 800 GCP certified
+associates. It is also a strategic vendor to Google’s
+‘Professional Services Organization’ (PSO) providing
+Google Cloud customers with qualified partners that have
+demonstrated technical proficiency and proven success in
+specialized solution and service areas.
+During the year, LTIMindtree scaled up its investments
+to ramp up the ‘GCP CoE’ and is investing in building IPs
+and Accelerators. Gen AI is yet another area identified
+for strategic collaboration between LTIMindtree
+and GCP which includes building GCP-specific Gen AI
+solutions and a go-to-market strategy.
+
+LTIMindtree has a long-standing 360-degree
+partnership with Microsoft and has significantly
+strengthened its Microsoft credentials by adding
+11 specializations, including Low Code Application
+Development, Data Warehouse Migration to Microsoft
+Azure, Kubernetes on Azure, Build and Modernize
+AI Apps with Microsoft Azure, and Analytics on
+Microsoft Azure.
+LTIMindtree has achieved all 6 Solution Partner
+Designations with Microsoft including Digital & App
+Innovation, Infrastructure, Data & AI, Security, Business
+Applications, and Modern Work. It is also a recognised
+member of Microsoft Partner Advisory Councils for
+Business Applications and App Innovation. LTIMindtree’s
+success with Microsoft is supported by over 19,000+
+trained associates and 12,000+ certified experts
+who help customers around the world solve complex
+business problems. During the year, LTIMindtree was awarded as the Finalist
+in 2 categories - ‘GSI Growth Champion’ and ‘Artificial
+Intelligence’ at the Microsoft Partner of the year
+Awards. The Company acquired membership of the
+Microsoft Intelligent Security Association (MISA)
+and was also a featured partner in Microsoft AI
+Partner playbook. In December 2023, LTIMindtree
+inaugurated Microsoft Cloud Generative AI Center of
+Excellence (Gen AI CoE) and together, LTIMindtree
+and Microsoft announced a joint PR on “AI Powered
+Employee Engagement Applications” under the
+umbrella of LTIMindtree’s innovative Canvas.AI
+platform covering Gen AI offerings and solutions. 
+
+LTIMindtree is IBM’s GSI and Platinum Business
+Partner with global coverage. It has become the first
+Indian Global System Integrator (GSI) to join the
+IBM Quantum Network. LTIMindtree will have access
+to IBM Quantum resources, and this move is a strategic
+step toward LTIMindtree helping customers benefit the
+transformative value of quantum computing technologies.
+We are strategically engaged with IBM on watsonx
+portfolio around .data, .ai and .gov offerings to
+deliver value to our clients.
+The GTM priorities with IBM include watsonx, hybrid
+cloud, security, and sustainability. Leveraging the
+preferred global commercial arrangements with IBM in
+the hybrid cloud and security area, LTIMindtree has
+co-created differentiated joint offerings by collaborating
+with IBM Ecosystem Engineering GSI Lab teams.
+LTIMindtree showcases its rich experience and expertise
+by hosting their global clientele at the 'IBM Innovation
+& Experience Center' in Bengaluru. This center serves
+as a one-stop shop for customers to see our joint bestin-class solutions built on IBM technologies to help them
+foster and accelerate their digital transformation journey.
+During the year, IBM presented LTIMindtree 'IBM
+Partner Plus Award 2023' in the Digital Labor category
+for the APAC geography and Red Hat India awarded
+LTIMindtree 'Game Changer Partner—Public Sector
+Business' recognizing our valuable partnership and joint
+commitment to drive Hybrid Cloud transformation for our
+clients. LTIMindtree and IBM have formed a deep-seated synergy that has fuelled innovation,
+creativity, and excellence leading 360-degree relationship.
+These awards exemplify LTIMindtree’s commitment in
+using IBM technology to provide innovative solutions
+to our clients by combining the strengths of both
+organizations. 
+
+With over 25 years of experience, 200 global SAP
+customers, 9,000+ SAP Minds carrying over
+3,000 certifications, and 50+ purpose-built SAP
+Innovations, LTIMindtree has one of the industry's
+largest and most mature SAP practices.
+LTIMindtree, one of SAP's 19 Global Strategic Services
+Partners (GSSP), assists organizations in leveraging the
+latest SAP innovations such as RISE with SAP, S/4HANA
+Cloud (Private/Public), Industry Cloud Solutions, SAP
+Business Technology Platform (BTP) based Platform-as-aService (PaaS) offerings, Sustainability, Mid-market, and
+various other solutions.
+During the year, LTIMindtree has won several SAP awards
+and recognitions, including the SAP Pinnacle Award
+for Industry Innovation, as well as an invitation to
+Sapphire 2023 as one of the nine global "Premier"
+sponsors—a testament to LTIMindtree's growing stature
+in the SAP market and its relationship with SAP.
+
+For over 20 years, LTIMindtree has been a trusted MSP
+partner of Oracle, enabling customers to leverage cloud
+technology for maximum ROI. As a Global Expertise and
+Cloud Solution Provider Expertise partner, LTIMindtree
+collaborates with Oracle on marketplace offerings,
+competency centers, and customer advisory boards. With
+over 150 Oracle Expertise Badges and 3,500 OracleCertified Professionals, LTIMindtree has established
+itself as a top partner.
+Over the years, LTIMindtree has been recognized
+with several Oracle awards, including the Global Best
+Commerce Cloud Transformation, the Global Earthfirst
+Award for Operational Excellence in Sustainability, 
+the JD Edwards Product Innovation, and the Oracle
+Nordics Cloud Partner Award for OCI. LTIMindtree is
+the one of the largest JD Edwards practices around
+the globe and we have received multiple accolades
+in Product innovation and Digital Integration. Our
+customer who is a large Heavy Equipment manufacturer
+in North America was awarded with the Oracle Markie
+Award for Best Commerce Experience in both B2B
+and B2C space.
+LTIMindtree's services include Oracle Cloud Application,
+Oracle Cloud Infrastructure, Enterprise Application,
+and Industry GBU Application. Its expertise in Oracle
+Application Development, Digital Native Applications,
+Applications to Oracle Cloud, Database to Oracle Cloud,
+DevOps, Platform Integration, and Data Management
+makes it a leader in the field. LTIMindtree's Oracle
+solutions help modernize on-premises applications for
+improved business outcomes, while its Industry Cloud
+solutions offer hyper-personalized customer experiences.
+The Company has also developed joint GTMs with Oracle
+in multiple geographies.
+During the year, LTIMindtree became the first Oracle
+partner globally to achieve the triple certification
+in Oracle Analytics. Accomplished CE, CSPE
+partnership levels for IaaS, PaaS and SaaS across 6
+regions (North America, Western EU, Middle East, India,
+ASEAN and ANZ). We are also ranked among the
+Top 3 Oracle partners worldwide with 50+ Cloud
+Service Specializations, and part of Oracle Gen AI
+Beta Program.
+
+LTIMindtree has solidified an exceptional alliance with
+Snowflake, attaining the esteemed Elite Partner
+status and securing a position among the top three
+partners acknowledged by Snowflake. Its dedicated
+Snowflake Strategic Business Unit (SBU) boasts a robust
+Center of Excellence. With unwavering support and active
+involvement from key leadership at both LTIMindtree and
+Snowflake, this partnership has emerged as one of our
+top priorities and proved its place over time. 
+This sentiment was echoed prominently at the recent
+Snowflake Sales Kick Off, where LTIMindtree stood
+out as the only GSI sponsor, where sponsorship
+was exclusively reserved for their select
+strategic partners. LTIMindtree’s comprehensive 360-degree partnership
+approach encompasses Sell with, Sell through,
+and Sell to strategies, offering an extensive array
+of services. Together, the companies have successfully
+executed numerous modernization projects for global
+enterprises spanning various industries such as Financial
+Services, Manufacturing, Energy Utility, Hitech, CPG &
+Retail, among others. These projects have facilitated
+seamless migration, modernization of data platforms,
+and the development of specialized analytics solutions
+on Snowflake technology.
+Remaining at the forefront of innovation with
+Snowflake, LTIMindtree continuously explores
+cutting-edge technologies like Gen AI. Its proprietary
+tool, PolarSed, drives snowflake modernization with
+remarkable efficiency, boasting 60-70% automation
+and enabling accelerated time-to-value. We
+are dedicated to optimizing the data-to-decisions
+journey on the Data Cloud with Fosfor Decision Cloud,
+ensuring maximum ROI on Snowflake investments
+through FinOps.
+LTIMindtree’s commitment to innovation and delivery
+excellence has garnered widespread recognition, with
+Snowflake honoring us as the Global System Integrator
+Innovation Partner of the Year 2023, Delivery
+Platform Partner of the Year 2022, and Innovation
+Partner of the Year 2021.
+Notable accomplishments during the year include,
+acquiring badges for Snowflake Technology
+and Migration Acceleration (SAP and Teradata),
+alongside being launch partners for innovative
+initiatives like Snowpark Container Services and
+Gen AI - Snowpark Container Services (SPCS).
+LTIMindtree’s collaborative ecosystem extends further
+through partnerships with key industry players such as
+Fivetran, Alation, AWS, and DBT. Together, LTIMindtree
+is revolutionizing the landscape of partnership excellence,
+driving innovation, and paving the way for a future of
+endless possibilities.
+
+LTIMindtree is an Elite partner of ServiceNow.
+LTIMindtree’s strategic partnership with ServiceNow spans
+programs like Consulting & Implementation, Reseller
+Service Provider and Build partner. Its Managed IT Services
+solution, designed in partnership with ServiceNow, helps
+organizations get the speed and quality of IT services
+required to be on top of changing business needs.
+LTIMindtree’s dedicated ServiceNow practice has carried
+out large-scale transformational engagements —
+covering the entire value chain and ServiceNow offerings
+portfolio — at some of the world's largest media &
+entertainment, utilities and manufacturing companies.
+In addition to upskilling and reskilling resources across
+various ServiceNow certification streams and building
+competencies beyond ITSM, LTIMindtree has also
+invested heavily in establishing a dedicated ServiceNow
+engineering team and center of excellence,
+developing a broad range of custom applications and
+accelerators to drive function specific as well as enterprise
+ServiceNow solutions.
+To stay ahead of the curve, LTIMindtree is working on
+several use cases leveraging ServiceNow Gen AI
+capabilities to unlock the potential benefits and create
+competitive advantage for its existing customers. Some
+of these Gen AI use cases can be built utilising third
+party LLMs thus creating a strong future ready Gen
+AI adoption model.
+During the year, LTIMindtree was awarded Emerging
+Service Provider Americas award by ServiceNow. This
+recognition was on account of its excellence in business
+innovation, product line expansion, scaling competency
+and revenue growth. In the last 12 months, LTIMindtree
+has expanded its competency by adding more than
+1,000 Certifications & Accreditations across various
+ServiceNow product lines thus strengthening the overall
+delivery capability. LTIMindtree continues to make
+investments in key markets across Sales and Delivery
+to grow ServiceNow footprints.
+
+LTIMindtree is an established premium consulting partner
+of Salesforce with 20+ years of experience on the
+platform. As a Summit (Platinum) Partner, we specialize in
+Salesforce/MuleSoft/Tableau implementation strategies to
+drive digital growth through deep client engagement.
+With 3,000+ certified consultants and an experience of
+3,250+ projects, LTIMindtree offers services across the
+Salesforce success value chain – ranging from Strategy
+Consulting & Solution Design to Implementation
+and Application Value Maintenance. Its practice and
+offerings are guided by dedicated CoEs for Core
+services, Marketing, Commerce, Industry Clouds and
+Functional Consulting. During the year, LTIMindtree was on the forefront of
+innovation for Salesforce’s Data Cloud and AI products.
+Participating in a hand selected program for the top 10
+Salesforce GSI to train and mobilize resources, provide
+POVs and solution offerings for the Data Cloud/AI
+initiative to drive market penetration.
+
+LTIMindtree is a Global Platinum Solutions Partner
+for Adobe - the highest level of GSI partnership offered
+by Adobe. Collaborative GTM focus areas cut across
+Personalization insights and engagement, Personalization
+at scale, Next-gen B2B experiences, Digital transformation
+Omnichannel Commerce and End-to-End content lifecycle.
+LTIMindtree brings a full suite of customer experience
+transformation services to the table and has been an
+anchor partner for many of its large customers in their
+digital transformation programs. The Company strategizes
+its digital marketing programs to build and maintain its
+digital marketing platforms.
+The Adobe practice at LTIMindtree has over 1200 people
+and 150+ certified experts, with specializations in AEM
+Sites, Adobe Commerce, and Marketo.
+During the year, LTIMindtree proudly secured a spot
+in Forrester's Adobe Services Landscape Report
+for Q1 2024, standing among an elite group of 27
+distinguished firms, recognized for their significant
+presence in the realm of Adobe services, showcasing
+LTIMindtree’s substantial impact within the industry. 
+
+LTIMindtree is a Global Elite partner of Pega and a
+Global Reseller. Over the years, the partnership between
+LTIMindtree and Pega has grown beyond delivery
+excellence into thought leadership and technology
+partner. This is possible due to highly skilled and Pega
+Certified talent pool of 500+ associates globally. Low
+Code practice briefly - 3,000+ Consultants | 200+
+Active Clients | 2,000+ Certified Consultants |
+20+ Solutions.
+ LTIMindtree has achieved AMS Specialization in
+the areas of Intelligent Automation, Healthcare
+and Life Sciences. The Company has also attained
+Authorization distinction for AMS, EMEA, APAC
+regions thereby solidifying its expertise across Gen AI,
+Process Mining, Process AI, Customer Service, Customer
+Engagement, and Intelligent Automation.
+Over the years, LTIMindtree has earned reputation as one
+of the most valuable and preferred GSI partners for
+Pega by providing the exclusivity of solution pre-launch
+demo, Industry and Marketplace Solutions, Successful Customer Implementations, Strong Executive Connects,
+joint investments, Partner Days, Certified skill set and joint
+GTM activities. During the year, LTIMindtree has leveraged Pega platform
+to build one of a kind Gen AI-based Customer
+Service solution. This solution's ability to process
+customer interactions, provide trend summaries, suggest
+actions for future requests, offer holistic application
+improvement suggestions, and gather feedback from
+customers is a game-changer in enhancing customer
+service experiences. As part of its expertise in the
+Process AI, LTIMindtree has built Fraud Claim process
+and SLA Management process solutions that infuses
+automation with real-time workflow. LTIMindtree is
+developing a KYC framework for the FS industry using
+Pega’s new SaaS based platform called Pega Launchpad.
+This solution offers LTIMindtree an opportunity for
+growth through non-linear revenues channel.
+
+Establishing its partnership journey with Boomi in 2020,
+LTIMindtree quickly got elevated to a Global Gold GSI
+Partner by 2022. Its Integration practice and offerings
+on Boomi are guided by a dedicated Center of
+excellence for Core services and Functional consulting.
+LTIMindtree offers its customers a complete spectrum
+of Integration services on Boomi including
+Implementation, Application Development, API-fication,
+COE setup, Legacy migration and transformation. It
+has helped many of the fortune 500 customers
+based in North America with API-fication of various
+business critical e-Commerce services, Data Integrations
+and Legacy integrations leveraging Boomi AtomSphere
+platform to ensure seamless connectivity between
+integrations with multiple ERP’s, Cloud Database’s
+& CRM’s.
+During the year, LTIMindtree was awarded the
+APJ 2023 Partner on Boomi award for deep
+expertise to deliver integrated environments,
+power automation, and enable data-driven
+decision-making.
+
+LTIMindtree is Elite Partner with Databricks, highlighting
+its strong commitment to this relationship. As an elite
+partner, LTIMindtree enables its customers to leverage
+the full potential of Databricks Lakehouse Platform,
+facilitating accelerated migration. LTIMindtree’s
+automation-led approach led by its proprietary
+– ALCAZAR, streamlines the migration process and
+minimizes downtime, ensuring a seamless transition to the
+Databricks Lakehouse Platform. Together, the partnership
+delivers a powerful combination of best-in-class
+technology and strategic guidance to help businesses
+maximize the full potential of their data.
+LTIMindtree has a strong Databricks Practice with over
+1,500+ trained resources. Its dedicated Databricks
+Center of Excellence (COE) operates at a Level
+3 maturity, with proven credentials in areas such as
+training, sales and delivery excellence, research and
+development, and innovation in accelerators. Databricks
+COE has multiple accelerators, Gen AI capabilities
+along with pre-built, industry-specific use cases
+tailored for the Consumer-Packaged Goods (CPG),
+Manufacturing (MFG), Banking, Financial Services,
+and Insurance (BFSI), and Travel, Transportation, and
+Hospitality (TTH) industries on Databricks Stack, ensuring
+a strong foundation to our delivery capabilities and
+global GTM. Over the years, LTIMindtree achievements have been
+recognized by Databricks at their global summit –
+LTIMindtree received AMER Partner Champion of the
+Year award and a finalist in the Migration Partner of
+the Year – AMER category. These accolades underscore
+our commitment to delivering exceptional value and
+driving innovation in partnership with Databricks.
+During the year, LTIMindtree initiated dedicated
+Databricks Business Unit to streamline joint GTM and
+propel our growth with Databricks. The Company
+witnessed aggressive growth in Databricks
+implementations creating impact for its clients. Looking
+ahead, LTIMindtree is more focused on new growth
+avenues, especially with emerging capabilities like Gen
+AI, Databricks Unity Catalog and Mosaic AI. These
+innovations hold immense potential for transforming the
+way organizations manage and derive insights from their
+data, delivering innovative solutions and driving tangible
+business outcomes for the clients.
+
+LTIMindtree achieved top-tier Global GSI status
+with Informatica, which is a game-changer for
+organizations seeking to achieve data excellence.
+LTIMindtree and Informatica are committed to investing
+and have a focused approach to the growth of
+partnership through several global, regional and account
+level engagements. In the interest of this renewed focus
+to the partnership, LTIMindtree has invested in creating
+a dedicated Informatica Business Unit to propel the
+growth manifolds.
+With the dedicated Informatica COE, LTIMindtree is
+building innovative solutions to fuel future growth.
+To accelerate practice & capability build, LTIMindtree is
+driving focussed certification programs by training
+and certifying its resources on Informatica. The Company
+is enabling seamless cloud migration and modernization
+for its joint customers’ data platforms, to harness
+the right power of data. Together, it is empowering
+businesses to achieve data excellence at unprecedented
+speed and scale.
+Looking ahead, this strategic partnership between
+LTIMindtree and Informatica promises to catalyze
+innovation, drive transformative outcomes, and unlock
+boundless opportunities in the dynamic landscape of
+data-driven enterprises.
+
+Hewlett Packard Enterprise (HPE) and LTIMindtree
+(LTIM) share a 360-degree partnership representing
+a significant collaboration aimed at delivering innovative
+solutions and services to clients in key focus areas by
+striving to address the evolving needs of businesses in the
+digital era.
+By combining HPE’s tech infra expertise & Green lake
+hybrid cloud solutions with LTIMindtree’s reliable
+and Full Stack Digital Operating Model (FSDO)
+proven services, LTIMindtree is accelerating client’s
+digital transformation journey and delivering secure,
+distinctive experiences from edge to cloud with a Zero
+Trust, AI-driven foundation. This collaboration is
+particularly valuable in today's rapidly changing business
+landscape, where organizations are increasingly relying on
+emerging technologies such as Gen AI to harness the
+power of their data to get the most out of AI initiatives
+and drive growth, improve customer experiences, and
+streamline operations.
+This strategic partnership emphasizes a customer-centric
+approach, with a focus on understanding each client's
+unique challenges and objectives. By collaborating closely
+with clients, HPE and LTIMindtree are designing the
+blueprint for industry-specific use cases that address
+specific business needs, drive innovation, and deliver
+tangible results. With a shared commitment to excellence
+and a vision to leverage complementary set of capabilities,
+this collaboration is poised to make a significant impact in
+the ever-evolving landscape.
+
+LTIMindtree’s 360 Degree partnership with Dell
+encompasses several areas across cutting edge
+technologies in areas of Multicloud, Gen AI, Edge
+Computing, Data Protection and Infrastructure
+Resiliency, Device as a Service (DaaS) and PC as
+a Service (PaaS). Resources spread across the globe
+contribute to co-develop and deliver outcomes and
+maximize return on investments. LTIMindtree's and Dell
+Technologies partnership is consistently expanding the
+solution portfolio delivering comprehensive solutions.
+During this year, LTIMindtree and Dell Technologies have
+joined hands to drive transformative strategies
+including Generative AI driven growth opportunities
+and innovation. LTIMindtree services powered by Dell
+Technologies Gen AI validated designs are designed to
+help enterprises leapfrog in their Gen AI journey. The
+solution delivers full-stack generative AI solutions built on
+the best of Dell infrastructure and software, combined
+with the latest GPU accelerators, AI software, and
+AI expertise.
+
+LTIMindtree is a Cisco Gold Partner with a 360-degree
+relationship. Collaboration with Cisco enables LTIMindtree
+to provide next-generation IT solutions and services
+to its customers by leveraging various Cisco architectures.
+LTIMindtree leverages the Cisco partnership in initiatives
+for software-defined networking, data center
+transformation, application transformation security,
+Cybersecurity, unified communication, IoT, and
+smart city projects.
+LTIMindtree has a large pool of Cisco-certified engineers
+and architects who work closely with its customers
+to deliver business outcomes. It has expertise in the
+design, implementation, support, and maintenance
+of Cisco architecture. LTIMindtree has also become a
+Cisco Meraki partner in India, USA, Sweden, Italy
+and KSA.
+
+The company's revenue has increased by 43% from March 31, 2023 to March 31, 2024, driven by growth in investments, trade receivables, and unbilled revenue. Gross profit has also increased, but the gross margin has declined slightly from 24.5% to 23.2% due to higher costs.
+Operating expenses have increased by 35% primarily due to higher salaries, wages, and other expenses. As a result, operating profit has decreased by 12%. The operating margin has also declined from 15.6% to 13.5%.
+Net income has increased by 18% to Rs. 178,422 due to a significant improvement in non-operating income, mainly driven by investments. The net margin has expanded from 10.1% to 11.3%.
+The company's cash and cash equivalents have decreased by 22% from March 31, 2023 to March 31, 2024, primarily due to higher investments and working capital requirements. However, the company's other bank balances have increased, indicating a strong liquidity position.
+The company's total assets have increased by 75% primarily due to growth in investments and trade receivables. Equity has also increased by 68%, driven by retained earnings and other reserves. The debt-to-equity ratio has remained relatively stable at around 0.2.
+Overall, the company's financial performance has been mixed, with revenue and net income growth offset by declining gross and operating margins. The company's liquidity and capital structure remain strong, but it may need to focus on improving its operating efficiency to drive sustainable growth.

@@ -1,0 +1,8 @@
+# Ignore virtual environments
+venv/
+
+# Ignore data folders
+data/
+data_finance/
+
+.env
